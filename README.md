@@ -25,7 +25,7 @@ Eu gosto de programar em backend.
 
 Se você quiser visitar meu [portfolio](https://luisoila.dev/)
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 Sobre mim
 
 <br>
 
