@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
+# 🖖 Olá dev! Bem-vindo ao meu perfil! <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
 
-I'm a front-end developer!
 
-I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
+Eu sou um desenvolvedor "aprendiz", que entrou no mundo da programação em 2025.
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+Eu gosto de programar em backend.
 
-If you want you can visit my [portfolio](https://luisoila.dev/)
+Se você quiser visitar meu [portfolio](https://luisoila.dev/)
 
 ## 👨🏻‍💻 About me
 
@@ -32,11 +31,11 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
 
 <img src="./images/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Brazil
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
-- ✈️ Traveling is one of my favorite hobbies
+- 🌎 Sou do Brasil
+- 👨🏻‍💻 Amo jogar e programar
+- 🧠 Gosto de aprender coisas novas
+- 🌌 Fanático por futebol
+- ✈️ Viajar é um dos meus hobbies favoritos
 - 📧 Reach me via luisg.juliao@gmail.com
 
 <br>
