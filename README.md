@@ -32,27 +32,15 @@ Se você quiser visitar meu [portfolio](https://luisoila.dev/)
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 Sou do Brasil
-- 👨🏻‍💻 Amo jogar e programar
+- 👨🏻‍💻 Fanático por futebol
 - 🧠 Gosto de aprender coisas novas
-- 🌌 Fanático por futebol
 - ✈️ Viajar é um dos meus hobbies favoritos
-- 📧 Reach me via luisg.juliao@gmail.com
 
 <br>
 <br>
 <br>
 <br>
 <br>
-
-## 💻 Tech stack
-
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
-![ReactJS Logo](/images/reactjs.svg)
-![NextJS Logo](/images/nextjs.svg)
-![Typescript Logo](/images/typescript.svg)
-![React-Native Logo](/images/react-native.svg)
 
 ---
 
